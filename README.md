@@ -12,7 +12,7 @@ Besides programming, i like to create 3D art and help people achieve their dream
 - I learned Rust because of ferris the crab
 
 # Techstack
-[![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,rust,bash,linux,regex,mysql,postman,html,css,git,github,js,ts,ae,ps,postgres,maven,idea,webstorm,vscode,spring,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,rust,bash,linux,regex,mysql,postman,html,css,git,github,js,ts,ae,ps,postgres,maven,idea,webstorm,vscode,spring,vite,python)](https://skillicons.dev)
 
 <!--
 **saqramochii/saqramochii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
