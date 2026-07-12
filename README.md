@@ -2,7 +2,7 @@
 
 🎓 *I'm a fullstack developer in training since 2025.*
 
-🫂 Besides programming, i like to create 3D art and help people achieve their dreams and find their passion.
+🫂 Besides programming, I like to create 3D art and help people achieve their dreams and find their passion.
 
 ❗ **I believe that online privacy is a human right and that we need laws to save artists and devs from getting replaced by AI.**
 
