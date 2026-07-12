@@ -1,10 +1,10 @@
-# 🌸 Hi there, im Saqramochii :)
+# 🌸 Hi there, I'm Saqramochii :)
 
 🎓 *I'm a fullstack developer in training since 2025.*
 
 🫂 Besides programming, i like to create 3D art and help people achieve their dreams and find their passion.
 
-❗ **I believe that online privacy is a human right and that we need laws to safe artists and devs from getting replaced by AI.**
+❗ **I believe that online privacy is a human right and that we need laws to save artists and devs from getting replaced by AI.**
 
 ### ❔ Fun Facts about me
 - 😿 I want to have cats but im allergic to animal fur :/
@@ -12,7 +12,12 @@
 - 🦀 I learn Rust because of ferris the crab
 
 # 🧠 Techstack
-[![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,rust,bash,linux,regex,mysql,postman,html,css,git,github,js,ts,ae,ps,postgres,maven,idea,webstorm,vscode,arch,spring,vite,python)](https://skillicons.dev)
+**Proficient**
+
+[![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,bash,linux,regex,mysql,postman,html,css,ae,ps,postgres)](https://skillicons.dev)
+
+**Learning** <br>
+[![My Skills](https://skillicons.dev/icons?i=rust,git,github,js,ts,postgres,maven,idea,webstorm,vscode,arch,spring,vite)](https://skillicons.dev)
 
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=saqramochii&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true) <br>
