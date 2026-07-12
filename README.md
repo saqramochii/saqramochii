@@ -14,7 +14,7 @@
 # 🧠 Techstack
 **Proficient**
 
-[![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,bash,linux,regex,mysql,postman,html,css,ae,ps,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,bash,linux,regex,mysql,postman,html,css,ae,ps)](https://skillicons.dev)
 
 **Learning** <br>
 [![My Skills](https://skillicons.dev/icons?i=rust,git,github,js,ts,postgres,maven,idea,webstorm,vscode,arch,spring,vite)](https://skillicons.dev)
