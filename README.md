@@ -7,8 +7,9 @@ Besides programming, i like to create 3D art and help people achieve their dream
 > I believe that online privacy is a human right and that we need laws to safe artists and devs from getting replaced by AI.
 
 ### Fun Facts about me
-- I want to have cats but im allergic to fur :/
+- I want to have cats but im allergic to animal fur :/
 - I swore to myself that I will never become a dev ever when I was younger
+- I learned Rust because of ferris the crab
 
 # Techstack
 
