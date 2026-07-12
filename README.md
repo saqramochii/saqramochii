@@ -9,7 +9,7 @@ Besides programming, i like to create 3D art and help people achieve their dream
 ### Fun Facts about me
 - I want to have cats but im allergic to animal fur :/
 - I swore to myself that I will never become a dev ever when I was younger
-- I learned Rust because of ferris the crab
+- I learn Rust because of ferris the crab
 
 # Techstack
 [![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,rust,bash,linux,regex,mysql,postman,html,css,git,github,js,ts,ae,ps,postgres,maven,idea,webstorm,vscode,arch,spring,vite,python)](https://skillicons.dev)
