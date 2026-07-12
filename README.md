@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi there, im Saqramochii :)
+
+I'm a fullstack developer in training since 2025.
+
+Besides programming, i like to create 3D art and help people achieve their dreams and find their passion.
+
+> I believe that online privacy is a human right and that we need laws to safe artists and devs from getting replaced by AI.
+
+### Fun Facts about me
+- I want to have cats but im allergic to fur :/
+- I swore to myself that I will never become a dev ever when I was younger
+
+# Techstack
+
 
 <!--
 **saqramochii/saqramochii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
