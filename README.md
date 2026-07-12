@@ -1,6 +1,6 @@
 # Hi there, im Saqramochii :)
 
-I'm a fullstack developer in training since 2025.
+*I'm a fullstack developer in training since 2025.*
 
 Besides programming, i like to create 3D art and help people achieve their dreams and find their passion.
 
