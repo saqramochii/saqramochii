@@ -4,7 +4,7 @@
 
 Besides programming, i like to create 3D art and help people achieve their dreams and find their passion.
 
-> I believe that online privacy is a human right and that we need laws to safe artists and devs from getting replaced by AI.
+**I believe that online privacy is a human right and that we need laws to safe artists and devs from getting replaced by AI.**
 
 ### Fun Facts about me
 - I want to have cats but im allergic to animal fur :/
