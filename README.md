@@ -19,7 +19,7 @@ Fusion360, EsXI, MySQL Workbench, Jira, Confluence
 
 **Learning**
 
-[![My Skills](https://skillicons.dev/icons?i=rust,git,github,js,ts,postgres,maven,idea,webstorm,vscode,arch,spring,vite)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=rust,git,github,js,ts,postgres,maven,idea,webstorm,vscode,arch,spring,vite,react,tailwind)](https://skillicons.dev) <br>
 XAMPP
 
 # 📈 GitHub Stats:
