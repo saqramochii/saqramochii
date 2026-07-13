@@ -17,7 +17,8 @@
 [![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,bash,linux,regex,mysql,postman,html,css,ae,ps)](https://skillicons.dev) <br>
 Fusion360, EsXI, MySQL Workbench, Jira, Confluence
 
-**Learning** <br>
+**Learning**
+
 [![My Skills](https://skillicons.dev/icons?i=rust,git,github,js,ts,postgres,maven,idea,webstorm,vscode,arch,spring,vite)](https://skillicons.dev) <br>
 XAMPP
 
