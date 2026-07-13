@@ -11,6 +11,11 @@
 - 😅 I swore to myself that I will never become a programmer when I was younger
 - 🦀 I learn Rust because of ferris the crab
 
+### 🌐 Language Stack
+
+- **Fluent: 🇨🇭🇩🇪🇬🇧**
+- **Beginner/Learning: 🇨🇵🇯🇵**
+
 # 🧠 Techstack
 **Proficient**
 
