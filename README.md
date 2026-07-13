@@ -8,16 +8,18 @@
 
 ### ❔ Fun Facts about me
 - 😿 I want to have cats but im allergic to animal fur :/
-- 😅 I swore to myself that I will never become a dev ever when I was younger
+- 😅 I swore to myself that I will never become a programmer when I was younger
 - 🦀 I learn Rust because of ferris the crab
 
 # 🧠 Techstack
 **Proficient**
 
-[![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,bash,linux,regex,mysql,postman,html,css,ae,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,notion,windows,blender,robloxstudio,bash,linux,regex,mysql,postman,html,css,ae,ps)](https://skillicons.dev) <br>
+Fusion360, EsXI, MySQL Workbench, Jira, Confluence
 
 **Learning** <br>
-[![My Skills](https://skillicons.dev/icons?i=rust,git,github,js,ts,postgres,maven,idea,webstorm,vscode,arch,spring,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,git,github,js,ts,postgres,maven,idea,webstorm,vscode,arch,spring,vite)](https://skillicons.dev) <br>
+XAMPP
 
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=saqramochii&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true) <br>
