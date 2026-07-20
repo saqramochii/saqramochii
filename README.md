@@ -1,6 +1,6 @@
 # 🌸 Hi there, I'm Saqramochii :)
 
-🎓 *I'm a fullstack developer in training since 2025.*
+🎓 *I'm a software engineer in training since 2025.*
 
 🫂 Besides programming, I like to create 3D art and help people achieve their dreams and find their passion.
 
