@@ -1,4 +1,4 @@
-# 🌸 Hi there, I'm Saqramochii :)
+# 🌸 Hello world! I'm Saqramochii :)
 
 🎓 *I'm a software engineer in training since 2025.*
 
